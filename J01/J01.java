@@ -1,4 +1,4 @@
-// JdemoShell - Gerry Agnew
+// JdemoShell - Gerry Agnew ver 2
 
 // Empty Shell to avoid retyping class structure
 
@@ -8,7 +8,7 @@ public class JdemoShell
 {
 	public static void main(String[] args )
 	{
-		// Scanner console = new Scanner(System.in); // for I/O
+		Scanner console = new Scanner(System.in); // for I/O
 
 		// code goes here ....
 
