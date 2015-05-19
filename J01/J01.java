@@ -1,4 +1,4 @@
-// JdemoShell - Gerry Agnew
+// J01 - Gerry Agnew bugFix J01
 
 // Empty Shell to avoid retyping class structure
 
